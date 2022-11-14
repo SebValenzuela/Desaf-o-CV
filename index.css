@@ -15,7 +15,7 @@ img {
     display: grid;
 }
 
-#fuente {
+.d-flex {
     display: flex;
 }
 
