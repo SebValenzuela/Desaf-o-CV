@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+}
+
+#info {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    display: grid;
+}
+
+#fuente {
+    display: flex;
+}
+
+a {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1em;
+    margin-inline-end: 0px;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    width: 50%;
+}
+
+td, th {
+    border: solid 2px;
+}
